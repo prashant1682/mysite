@@ -1,0 +1,148 @@
+/********************TAG SELECTOR*****************/
+body {
+  background-color: #dbf6e9;
+  text-align: center;
+  font-family: verdana, sans-serif;
+    color: #40514E;
+}
+
+h1 {
+  /*margin-top: 100px;*/
+  margin: 100px auto 0 auto;
+  font-family: 'Merriweather', serif;
+  font-size: 5.32rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin: 10px auto 25 auto;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+hr {
+  border-style: dotted solid;
+  width: 3%;
+  border-width: 5px 0 0 0;
+  border-color: #f05454;
+  margin: 10px auto 10px auto;
+}
+
+p{
+  line-height: 2;
+}
+/********************CLASS SELECTOR*****************/
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.entre {
+  text-decoration: underline;
+  /*  line-height: 4;*/
+}
+
+.cloud-1 {
+  position: absolute;
+  right: 600px;
+  top: 100px;
+}
+
+.cloud-2 {
+  position: absolute;
+}
+
+.text2 {
+  font-weight: normal;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+}
+
+.p-bottom{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.contact-msg{
+  width: 30%;
+  margin: 10px auto 10px auto;
+}
+.BUTTON_UBV {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 16px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 25px;
+}
+
+.BUTTON_UBV:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+/********************ID SELECTOR*****************/
